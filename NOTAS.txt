@@ -1,0 +1,22 @@
+
+## Acceso Admin
+Usuario "Noel"
+Contraseña "mistica123"
+
+
+
+-------
+Pedro
+1234abcd..
+Mesero
+----------
+
+
+Robert
+1234abcd..
+chef
+
+----------
+
+Lacra
+1234abcd..
